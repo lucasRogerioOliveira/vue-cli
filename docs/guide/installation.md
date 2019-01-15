@@ -18,7 +18,7 @@ yarn global add @vue/cli
 ```
 
 If after intallation you can't run the command `vue` on your terminal you need to add the directory in your PATH.
-You can do this by editing the line below in one of these files `.profile`, `.bashrc`, `.zshrc` or some other file like this where you use.
+You can do this by adding the line below in one of these files `.profile`, `.bashrc`, `.zshrc` or some other file like this where you use.
 ```
 PATH="$PATH:/home/<CHANGE_THIS_FOR_YOUR_USER>/.yarn/bin
 ```
